@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://disponha.github.io/blog.github.io/"
+baseurl: "/blog.github.io"
+url: "https://disponha.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
